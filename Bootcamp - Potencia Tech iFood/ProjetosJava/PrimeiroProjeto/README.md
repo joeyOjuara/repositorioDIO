@@ -1,3 +1,9 @@
+# Principal Link Útil
+https://glysns.gitbook.io/java-basico/sintaxe/operadores
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
