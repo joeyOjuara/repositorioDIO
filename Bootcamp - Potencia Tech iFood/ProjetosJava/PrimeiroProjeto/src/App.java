@@ -106,6 +106,6 @@ public class App {
             default:
                 System.out.println("Valor indefinido");
                 break;
-        }
+            }
     }
 }
