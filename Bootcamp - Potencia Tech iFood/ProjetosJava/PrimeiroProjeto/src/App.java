@@ -1,7 +1,7 @@
 public class App {
 
     /**
-     * Esse comentário é para documentar um classe ou método que está por vir.
+     * Esse comentário é para documentar uma classe ou método que está por vir.
      * @param args
      * @throws Exception
      */

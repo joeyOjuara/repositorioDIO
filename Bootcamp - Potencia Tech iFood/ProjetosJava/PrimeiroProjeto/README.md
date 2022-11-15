@@ -8,6 +8,9 @@ https://glysns.gitbook.io/java-basico/sintaxe/operadores
         + WHILE: Quando precisar de laços infinitos, sem quantidade determinada.
         + DO WHILE: Quando precisar que um bloco de código rode pelo menos uma vez antes dos laços infinitos.
 
+    ### Principais diferenças entre classe e objetos
+        + Classes são escritas com iniciais maiúsculas enquanto objetos são com iniciais minúsculas.
+
 
 
 

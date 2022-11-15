@@ -51,6 +51,7 @@ public class loop_do_while {
         
         calcularMaiorEMedia();
         contarParImpar();
+    
         
 
 
