@@ -1,19 +1,3 @@
-# Principal Link Útil
-https://glysns.gitbook.io/java-basico/sintaxe/operadores
-
-
-## Informações Úteis
-    ### Quando utilizar FOR, DO WHILE e WHILE
-        + FOR: Quando tiver uma quantidade determinada de repetições, que precise usar contador.
-        + WHILE: Quando precisar de laços infinitos, sem quantidade determinada.
-        + DO WHILE: Quando precisar que um bloco de código rode pelo menos uma vez antes dos laços infinitos.
-
-    ### Principais diferenças entre classe e objetos
-        + Classes são escritas com iniciais maiúsculas enquanto objetos são com iniciais minúsculas.
-
-
-
-
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
