@@ -7,7 +7,9 @@ Repositório criado para acompanhar as aulas e materiais da DIO e também como f
 
 ### LINKS ÚTEIS
 [Códigos Úteis para MD](https://www.markdownguide.org/basic-syntax/)
+
 [Java Basico](https://glysns.gitbook.io/java-basico)
+
 [Spring Framework](https://glysns.gitbook.io/spring-framework/)
 
 
