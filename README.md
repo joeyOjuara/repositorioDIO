@@ -2,9 +2,6 @@
 Repositório criado para acompanhar as aulas e materiais da DIO e também como forma de atender ao primeiro Desafio de Projeto do BOOTCAMP IFOOD.
 
 
-
-
-
 ### LINKS ÚTEIS
 [Códigos Úteis para MD](https://www.markdownguide.org/basic-syntax/)
 
@@ -19,6 +16,8 @@ Repositório criado para acompanhar as aulas e materiais da DIO e também como f
 [Introdução ao Maven 2](https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java)
 
 [Padrões de Projetos / Design Patterns](https://refactoring.guru/pt-br/design-patterns)
+
+[Interface Map para Java](https://www.devmedia.com.br/conhecendo-a-interface-map-do-java/37463)
 
 
 ## Informações Úteis
