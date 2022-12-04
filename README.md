@@ -14,6 +14,12 @@ Repositório criado para acompanhar as aulas e materiais da DIO e também como f
 
 [Extensões mais usadas VSCode](https://www.alura.com.br/artigos/vscode-extensoes-mais-usadas?gclid=CjwKCAiA9qKbBhAzEiwAS4yeDURo3VVvJXsxl9TOQucV5G-eUFdIEBX7MXNPOT3iy4DnA41FJ5ibmRoCvjgQAvD_BwE)
 
+[Introdução ao Maven 1](https://www.devmedia.com.br/introducao-ao-maven/25128)
+
+[Introdução ao Maven 2](https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java)
+
+[Padrões de Projetos / Design Patterns](https://refactoring.guru/pt-br/design-patterns)
+
 
 ## Informações Úteis
     ### Quando utilizar FOR, DO WHILE e WHILE
