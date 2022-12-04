@@ -19,6 +19,8 @@ Repositório criado para acompanhar as aulas e materiais da DIO e também como f
 
 [Spring Framework](https://glysns.gitbook.io/spring-framework/)
 
+[Gerador de código Java a partir de JSON](https://www.jsonschema2pojo.org/)
+
 
 
 ## Informações Úteis
