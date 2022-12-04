@@ -5,11 +5,11 @@ Repositório criado para acompanhar as aulas e materiais da DIO e também como f
 ### LINKS ÚTEIS
 [Códigos Úteis para MD](https://www.markdownguide.org/basic-syntax/)
 
+[Extensões mais usadas VSCode](https://www.alura.com.br/artigos/vscode-extensoes-mais-usadas?gclid=CjwKCAiA9qKbBhAzEiwAS4yeDURo3VVvJXsxl9TOQucV5G-eUFdIEBX7MXNPOT3iy4DnA41FJ5ibmRoCvjgQAvD_BwE)
+
 [Java Basico](https://glysns.gitbook.io/java-basico)
 
-[Spring Framework](https://glysns.gitbook.io/spring-framework/)
-
-[Extensões mais usadas VSCode](https://www.alura.com.br/artigos/vscode-extensoes-mais-usadas?gclid=CjwKCAiA9qKbBhAzEiwAS4yeDURo3VVvJXsxl9TOQucV5G-eUFdIEBX7MXNPOT3iy4DnA41FJ5ibmRoCvjgQAvD_BwE)
+[Interface Map para Java](https://www.devmedia.com.br/conhecendo-a-interface-map-do-java/37463)
 
 [Introdução ao Maven 1](https://www.devmedia.com.br/introducao-ao-maven/25128)
 
@@ -17,7 +17,8 @@ Repositório criado para acompanhar as aulas e materiais da DIO e também como f
 
 [Padrões de Projetos / Design Patterns](https://refactoring.guru/pt-br/design-patterns)
 
-[Interface Map para Java](https://www.devmedia.com.br/conhecendo-a-interface-map-do-java/37463)
+[Spring Framework](https://glysns.gitbook.io/spring-framework/)
+
 
 
 ## Informações Úteis
